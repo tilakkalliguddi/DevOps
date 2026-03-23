@@ -1,0 +1,15 @@
+Linux is powerful and Linux is popular
+Ubuntu is a Linux distribution and Linux is widely used
+Docker containers run on Linux systems
+The grep command searches text and grep is very useful
+The sed command edits text and sed is powerful
+The awk command processes data and awk is flexible
+DevOps engineers use Linux Linux Linux daily
+SSH allows secure remote login and SSH is safe
+HTTP and HTTPS are web protocols and HTTP is common
+Cloud computing cloud services cloud platforms are growing
+Automation saves time and automation improves efficiency
+Practice Linux commands practice daily practice well
+Learning Linux Linux commands is important
+Servers run Linux and many companies prefer Linux
+Good practice leads to good skills and good knowledge

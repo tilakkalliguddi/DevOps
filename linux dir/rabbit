@@ -1,0 +1,96 @@
+Date:05/03/2026- Calss-4
+.................................
+task:
+1. What is the difference between more and less command
+
+2.In the vi editor, how to delete the character in forward direction?
+
+3.In the vi editor, how to delete the character in backward direction
+
+4.In the VI editor, how do you search and replace an exact word pattern?
+Example text: good morning goodmorning good
+Write a command so that only the exact word good is replaced, and goodmorning should not be affected.
+....................................
+
+How to search and replace the pattern from 5th line to last line all the occurance
+
+esc: 5,$s/<search-pattern>/<replace-pattern>/g
+
+How to search and replace the pattern from 5th line to last line only the first occurance
+
+esc: 5,$s/<search-pattern>/<replace-pattern>
+
+..........................................
+
+Echo command:
+
+echo command is used to display message/content on the terminal
+and by using echo command we can redirect the content to a file
+
+syntax: echo <message/content>
+
+ex: echo hello-everyone
+
+Above commmand will display the message hello-everyone on the terminal
+
+echo <content> > <file-name>
+
+Above command will write the content to a file by replacing the actual content
+
+echo <content> >> <file-name>
+
+Above command will write the content to a file without replacing the actual content
+
+Note: If a file is not present then it will create a file and move the content
+
+..............................................
+
+Cat command
+
+cat <file-name>
+
+Above command will display the content of a file on the terminal
+
+cat -n <file-name>
+
+Above command will display the content of a file on the terminal along with line numbers
+
+cat -b <file-name>
+
+Above command will display the content of a file on the terminal along with line numbers
+where the content is present
+
+
+cat -s <file-name>
+
+Above command will display the content of the file on a terminal by supressing multiple
+empty lines to a single empty line
+
+cat -s -n <file-name>
+
+Above will display gthe content of a file on the terminal,where it will supress the multiple
+empty lines and also it will assign the line numbers
+
+cat <file1.txt> <file2.txt>
+
+Above command will display the content together for  all the files mentioned in the command
+
+.............................
+
+More command:
+
+More command is used to display all the contents of a file on the terminal page wise
+
+Synatx: more <file-name>
+
+Note: Press down arrow key to display the next page content on the terminal and we can use q for quit
+
+.........................
+less command
+
+less command is used to display all the contents of a file on the terminal line wise
+
+Synatx: less <file-name>
+
+Note: Press down arrow key to display the next line content on the terminal and we can use q for quit
+
